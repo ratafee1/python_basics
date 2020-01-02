@@ -106,3 +106,64 @@
 
 # for i in range(10):
 #     print(i,end=" ")
+# list tuple dict set
+# l1 = [1, 2, 3, 4,"ok",[5,6,7]]
+# print(l1)
+# print(type(l1))
+# print(l1[0])
+# print(l1[5][2])
+#
+# l1.append("apple")
+# print(l1)
+# l1.remove("apple")
+# print("l1 element remove",l1)
+# del l1[0]
+# print(l1)
+# del l1
+# print(l1)
+# t1=(1,2,3,4,"ok")
+# print(t1)
+# print(type(t1))
+# print(t1[0])
+# print(t1)
+# del t1
+# d1={"apple":1,"pear":2,3:"banana"}
+# print(d1)
+# print(type(d1))
+# print(d1["apple"])
+# d1["orange"]=100
+# print(d1)
+# del d1["orange"]
+# print(d1)
+# del d1
+# s1={1,2,3,4}
+# print(s1)
+# print(type(s1))
+# l1 =[1,2,3,4]
+# l2=list(range(10))
+# print(l2)
+# l3=list((1,2,3,4))
+# print(l3)
+# print(type(l3))
+# l4=list({"apple":1,"pear":2})
+# print(l4)
+# print(type(l4))
+# l5=list({'apple':1,'pear':2}.values())
+# print(l5)
+# print(type(l5))
+# l6=list({'apple':1,'pear':2}.items())
+# print(l6)
+#
+# l7=list(range(10))
+# print(l7)
+#
+# print(l7[0:])
+# print(l7[1:])
+# print(l7[1:4])
+# print(l7[-2])
+# print(l7[::-2])
+# z=zip([1, 2, 3], [4, 5, 6])
+# for each in z:
+#     print(each)
+# print(dir(z))
+# print(list(enumerate(range(10),5)))

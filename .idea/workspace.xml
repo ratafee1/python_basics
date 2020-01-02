@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab7a2402-a55a-4864-9d1c-4f421c7763c9" name="Default Changelist" comment="" />
+    <list default="true" id="ab7a2402-a55a-4864-9d1c-4f421c7763c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/1.0list_dict_set_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/10.0function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/10.1function_Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/11.0lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/12.0if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/12.2while_break_if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/12.3for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/12.while_1if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/13.0fileOperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/14.0exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/14.1exception_if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/15.0Oriention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/16.0GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/17.1GUiif_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/2.0listOperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/2.1zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/2.2list_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/3.0tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/4.0dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/4.1dictFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/5.0set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/6.0Orderdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/7.0list_Derive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/8.0tupleDERIVE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/9.0dictDerive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/ZA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/ZB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/sen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day03/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/encoding.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +51,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Vnd6aUhOgWveVVl89xOgbXWeRR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MachineLearning/day03" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProject\MachineLearning\day03" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,7 +79,83 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.17.1GUiif_elif_else">
+    <configuration name="14.0exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day03/14.0exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15.0Oriention" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day03/15.0Oriention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16.0GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day03/16.0GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17.1GUiif_elif_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day03/17.1GUiif_elif_else.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,22 +178,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="encoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/encoding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -79,7 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.encoding" />
+        <item itemvalue="Python.17.1GUiif_elif_else" />
+        <item itemvalue="Python.16.0GUI" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.15.0Oriention" />
+        <item itemvalue="Python.14.0exception" />
       </list>
     </recent_temporary>
   </component>
@@ -93,14 +217,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577892618892</updated>
-      <workItem from="1577892621974" duration="4450000" />
+      <workItem from="1577892621974" duration="20703000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$encoding.coverage" NAME="encoding Coverage Results" MODIFIED="1577897053612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
+    <SUITE FILE_PATH="coverage/PycharmProject$encoding.coverage" NAME="encoding Coverage Results" MODIFIED="1577943274246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
   </component>
 </project>
