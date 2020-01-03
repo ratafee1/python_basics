@@ -2,37 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab7a2402-a55a-4864-9d1c-4f421c7763c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/1.0HomeWork_Pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/10.0sortIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/11.0sortIndex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/12.0Description.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/13.0query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/14.0file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/15.0fileTsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/2.0conv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/3.0NumpyRandom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.0numpyArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.1arnage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.2matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.3NumpyAnalisis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.4NumpyCountAnalisis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/4.5any_all_unique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/5.0NumpyMatrixOperation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/6.0PandasSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/7.0DataFrmae.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/8.0Operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/9.0PandasFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/Pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/SklearnTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/SklearnTestTSV.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/day04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/1.0PCA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/2.0matDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/3.0matDeno2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/4.0figure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/4.1figureDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/4.2figurePie_Boxplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/5.0Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/6.0legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/6.1legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/7.0pltWay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/7.1figureWay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/8.0ScipyDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/day05/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/day03/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/day03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/day03/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/day03/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/day03/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/day03/encoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MachineLearning/day04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MachineLearning/day05" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -79,18 +62,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14.0file">
-    <configuration name="11.0sortIndex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.8.0ScipyDemo">
+    <configuration name="6.0legend" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day04/11.0sortIndex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day05/6.0legend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,17 +82,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.0Description" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.1legend" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day04/12.0Description.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day05/6.1legend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,17 +101,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13.0query" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.0pltWay" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day04/13.0query.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day05/7.0pltWay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,17 +120,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14.0file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.1figureWay" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day04/14.0file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day05/7.1figureWay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,17 +139,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15.0fileTsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.0ScipyDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day04/15.0fileTsv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/day05/8.0ScipyDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14.0file" />
-        <item itemvalue="Python.15.0fileTsv" />
-        <item itemvalue="Python.13.0query" />
-        <item itemvalue="Python.12.0Description" />
-        <item itemvalue="Python.11.0sortIndex2" />
+        <item itemvalue="Python.8.0ScipyDemo" />
+        <item itemvalue="Python.7.1figureWay" />
+        <item itemvalue="Python.7.0pltWay" />
+        <item itemvalue="Python.6.1legend" />
+        <item itemvalue="Python.6.0legend" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +201,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577892618892</updated>
       <workItem from="1577892621974" duration="25993000" />
-      <workItem from="1577964010097" duration="4081000" />
+      <workItem from="1577964010097" duration="5243000" />
+      <workItem from="1578025837378" duration="3470000" />
     </task>
     <servers />
   </component>
